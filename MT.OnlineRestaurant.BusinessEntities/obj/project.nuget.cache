@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DYIOl7RAeS59fCT/2RBIHpJ8twfnCUwvvqDwkhyhwuyf3emU8ozhBBzDCmLYFoxd5gnrFkPEIQRciGjB/vfTMg==",
+  "dgSpecHash": "qRCHAaWSVb12B95xfVyWhwJGayBLsqKCM557QlZn+XljkU4vTq/vFsk1t8l+zGwL7GqJG1Lyg2sqzTxO7uEqzg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\vmadmin\\Downloads\\301-microservices-base-master\\MT.OnlineRestaurant.SearchManagement\\MT.OnlineRestaurant.BusinessEntities\\MT.OnlineRestaurant.BusinessEntities.csproj",
+  "projectFilePath": "C:\\Users\\vmadmin\\Downloads\\301-microservices-base-master\\MT.OnlineRestaurant.OrderManagement\\MT.OnlineRestaurant.BusinessEntities\\MT.OnlineRestaurant.BusinessEntities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vmadmin\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
     "C:\\Users\\vmadmin\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",

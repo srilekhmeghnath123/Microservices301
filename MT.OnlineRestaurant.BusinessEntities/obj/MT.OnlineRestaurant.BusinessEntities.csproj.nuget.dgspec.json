@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vmadmin\\Downloads\\301-microservices-base-master\\MT.OnlineRestaurant.SearchManagement\\MT.OnlineRestaurant.BusinessEntities\\MT.OnlineRestaurant.BusinessEntities.csproj": {}
+    "C:\\Users\\vmadmin\\Downloads\\301-microservices-base-master\\MT.OnlineRestaurant.OrderManagement\\MT.OnlineRestaurant.BusinessEntities\\MT.OnlineRestaurant.BusinessEntities.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vmadmin\\Downloads\\301-microservices-base-master\\MT.OnlineRestaurant.SearchManagement\\MT.OnlineRestaurant.BusinessEntities\\MT.OnlineRestaurant.BusinessEntities.csproj": {
+    "C:\\Users\\vmadmin\\Downloads\\301-microservices-base-master\\MT.OnlineRestaurant.OrderManagement\\MT.OnlineRestaurant.BusinessEntities\\MT.OnlineRestaurant.BusinessEntities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vmadmin\\Downloads\\301-microservices-base-master\\MT.OnlineRestaurant.SearchManagement\\MT.OnlineRestaurant.BusinessEntities\\MT.OnlineRestaurant.BusinessEntities.csproj",
+        "projectUniqueName": "C:\\Users\\vmadmin\\Downloads\\301-microservices-base-master\\MT.OnlineRestaurant.OrderManagement\\MT.OnlineRestaurant.BusinessEntities\\MT.OnlineRestaurant.BusinessEntities.csproj",
         "projectName": "MT.OnlineRestaurant.BusinessEntities",
-        "projectPath": "C:\\Users\\vmadmin\\Downloads\\301-microservices-base-master\\MT.OnlineRestaurant.SearchManagement\\MT.OnlineRestaurant.BusinessEntities\\MT.OnlineRestaurant.BusinessEntities.csproj",
+        "projectPath": "C:\\Users\\vmadmin\\Downloads\\301-microservices-base-master\\MT.OnlineRestaurant.OrderManagement\\MT.OnlineRestaurant.BusinessEntities\\MT.OnlineRestaurant.BusinessEntities.csproj",
         "packagesPath": "C:\\Users\\vmadmin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vmadmin\\Downloads\\301-microservices-base-master\\MT.OnlineRestaurant.SearchManagement\\MT.OnlineRestaurant.BusinessEntities\\obj\\",
+        "outputPath": "C:\\Users\\vmadmin\\Downloads\\301-microservices-base-master\\MT.OnlineRestaurant.OrderManagement\\MT.OnlineRestaurant.BusinessEntities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vmadmin\\AppData\\Roaming\\NuGet\\NuGet.Config",
